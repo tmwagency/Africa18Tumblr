@@ -1,0 +1,1673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"icon",
+				"iconFont"
+			],
+			[
+				"U",
+				"URL"
+			],
+			[
+				"lstn",
+				"list:n	list-style-type:none"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"africa",
+				"africa18_tiled_spotlight"
+			],
+			[
+				"ko",
+				"ko-fw	.fileWrapper"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"share",
+				"shareLinks"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"cms",
+				"com-section	Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"bs",
+				"bs	@include box-shadow(${1:0} ${2:1px} ${3:3px} ${4:rgba(0,0,0,.25)});$0"
+			],
+			[
+				"footer",
+				"footerCol"
+			],
+			[
+				"foote",
+				"footerCol"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"animate",
+				"animate	animate"
+			],
+			[
+				"coms",
+				"com-sub	Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"op",
+				"op	@include opacity(${1:60});$0"
+			],
+			[
+				"pr",
+				"prefixer"
+			],
+			[
+				"ani",
+				"anim	@include animation($0);"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"scal",
+				"scale	@include scale(${1:1.2});"
+			],
+			[
+				"tra",
+				"trans	@include transition(${1:all 200ms ease-in-out});$0"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"ff",
+				"font-face"
+			],
+			[
+				"color",
+				"color-primary"
+			],
+			[
+				"strep",
+				"strepsils"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mrt",
+				"mrt@2x"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"tran",
+				"translateY"
+			],
+			[
+				"bcol",
+				"border-color"
+			],
+			[
+				"vet",
+				"vertical-align"
+			],
+			[
+				"com-",
+				"com-basic	Idiomatic CSS - Basic Comment"
+			],
+			[
+				"mh",
+				"min-height"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"keyp",
+				"keyup	keyup"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"con",
+				"confirmation"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"confirm",
+				"confirmation"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bocol",
+				"border-color"
+			],
+			[
+				"speci",
+				"specific"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"res",
+				"resize	.resize"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ov",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"mome",
+				"momentUnchosen"
+			],
+			[
+				"moment",
+				"momentChosen"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"cp",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"CON",
+				"Config"
+			],
+			[
+				"You",
+				"Youtube"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"fs",
+				"fs	@include font-size(${1:16});$0"
+			],
+			[
+				"wa",
+				"w-a	width: auto;"
+			],
+			[
+				"ra",
+				"r-a	right: auto;"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"messga",
+				"messageEl"
+			],
+			[
+				"ml",
+				"ml-a	margin-left: auto;"
+			],
+			[
+				"la",
+				"l-a	left: auto;"
+			],
+			[
+				"va",
+				"va-t	vertical-align: top;"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"size",
+				"size	@include size(${1:10}px,${2:10}px);$0"
+			],
+			[
+				"transpar",
+				"transparent"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"tr",
+				"tr	@include transition(${1:all 0.2s ease-in-out});$0"
+			],
+			[
+				"disab",
+				"disabled"
+			],
+			[
+				"bn",
+				"bd-n	border: none;"
+			],
+			[
+				"video",
+				"videoPage"
+			],
+			[
+				"com-s",
+				"com-sub	Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"br",
+				"br	@include border-radius(${1:5px});$0"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"com",
+				"complement	complement"
+			],
+			[
+				"page",
+				"pageID"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"message",
+				"messageEl"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"mod",
+				"module	JS module pattern"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass"
+			],
+			[
+				"new",
+				"new	New Object with closure wrapper"
+			],
+			[
+				"ne",
+				"new	New Object with closure wrapper"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"momen",
+				"moment-manager.js"
+			],
+			[
+				"place",
+				"placeOtherMoments"
+			],
+			[
+				"on",
+				"onRestartCallback"
+			],
+			[
+				"plac",
+				"placeOtherMoments"
+			],
+			[
+				"Mo",
+				"MomentManager"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"rest",
+				"restartVideo"
+			],
+			[
+				"ST",
+				"StrepsilsXfactorPlayer"
+			],
+			[
+				"reach",
+				"reachedEnd"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"brows",
+				"browser"
+			],
+			[
+				"window",
+				"windowsPhone"
+			],
+			[
+				"bro",
+				"browser"
+			],
+			[
+				"ipod",
+				"ipodTouch"
+			],
+			[
+				"pl",
+				"platform"
+			],
+			[
+				"f",
+				"fu	function"
+			],
+			[
+				"fe",
+				"fec	forEachCall"
+			],
+			[
+				"disa",
+				"disablePlayer"
+			],
+			[
+				"c",
+				"ct	classList.toggle"
+			],
+			[
+				"other",
+				"otherMoments"
+			],
+			[
+				"da",
+				"data.json"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"console",
+				"console.log	console-log"
+			],
+			[
+				"choo",
+				"chooseUserMoment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"worde",
+				"Word Wrap: Toggle"
+			],
+			[
+				"dash",
+				"Convert Case: dash-case"
+			],
+			[
+				"das",
+				"Convert Case: dash-case"
+			],
+			[
+				"cone",
+				"Convert Case: dash-case"
+			],
+			[
+				"came",
+				"Convert Case: camelCase"
+			],
+			[
+				"fmove",
+				"File: Move"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"oribelow",
+				"Origami: Create Pane Below"
+			],
+			[
+				"origambelow",
+				"Origami: Create Pane Below"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"origam",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"plg",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"snipp obje",
+				"Snippet: New Object with closure wrapper"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Snippet: JS revealing module pattern"
+			],
+			[
+				"ori",
+				"Origami: Create Pane Below"
+			],
+			[
+				"proje",
+				"Set Syntax: Project time"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"origa",
+				"Origami: Create Pane Above"
+			],
+			[
+				"todo",
+				"Snippet: Idiomatic CSS - Todo Comment"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"source",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"jsd",
+				"Snippet: JS module pattern"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"docb",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tern",
+				"Emmet: Rename Tag"
+			],
+			[
+				"live",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"lives",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"auto",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 355.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zmartineau/Downloads/lynx (6)/style.css",
+		"/Users/zmartineau/Downloads/lynx (5)/style.css",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_spotlight.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/js/spotlight.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/helpers/_helpers.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/js/helpers/helpers.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/tumblr-test.html",
+		"/Users/zmartineau/Downloads/lynx (4)/style.css",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/partials/_masthead.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_masthead.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/partials/_list-item.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/partials/_entry.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/libs/modernizr.min.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/_components.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_components.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/helpers/console.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/crossdomain.xml",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/spotlight.js",
+		"/Users/zmartineau/Downloads/lynx (1)/selection.json",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/index-tumblr.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_app.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/app.min.js.map",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/helpers/_radial-arg-parser.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/js/popup.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/js/script.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/Gruntfile.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/Gruntfile.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/functions/_golden-ratio.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/package.json",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/the-project/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_typography.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/bower_components/imagesloaded/test/jquery-success.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/bower_components/imagesloaded/test/jquery-fail.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_variables.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_entry.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_spotlights.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_list-item.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/helpers/limit.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/img/scratch.svg",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/_dependencies.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/js/dist/app.min.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/js/dist/app.min.js.map",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/theme/scss/partials/_spotlights.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/itsnate/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/sam-taylor/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/duffy/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/script.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/bower_components/imagesloaded/test/data-uri.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_dependencies.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/mixins/_animation.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/img/scratch-white.svg",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/sam-coldy/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/mehdi-lacoste/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/ferry-gouw/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/arran-gregory/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/natalie-stuyk/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/popup.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_normalize.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_colour-palette.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/is-tropical/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/css/boxsizing.htc",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/dist/app.min.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/the-can/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/the-fragrance/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/you/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_footer.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/index-tumblr (TMW MacBook Pro Retina's conflicted copy 2013-11-11).html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/insa/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/the-can",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/reform/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/topsafe/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/daniel-david-freeman/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/joe-kessler/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/rob-whoriskey/index.html",
+		"/Users/zmartineau/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/css/kickoff.css",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/andrew-groves/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/kyle-platts/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/posts/jimll-paintit/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_responsive-utilities.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_utilities.scss",
+		"/Users/zmartineau/.functions",
+		"/Users/zmartineau/.git-completion.bash",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/posts.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/entry.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/helpers/image-preloader.js",
+		"/Users/zmartineau/Downloads/AMIfv95xPhQ_KueLVt7I6ZWiOR-Cf3oQZ_0w-soKjH7hfVLOcSLzXSH_ZYHxOeZZyFM04yz1GToCLJZ--lHQIeMmb-_8VhvLoFm7NrjHIjV8tNC9qqZvtaDNC-Ac5jDa91A2ht4MMMiPixBNmZ0NL1sImoJ2N7QafOuFroidepfuzp6Wm44Qp7s.svg",
+		"/Users/zmartineau/Downloads/image-preloader.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/github/others/fireball/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/testing/Fireball.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/fireball_worker.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/Fireball.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_notes.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/partials/_entry-spotlights.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_buttons.scss",
+		"/Users/zmartineau/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/zmartineau/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/mixins/_css3.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/listItem.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/tumblr/optica.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/tumblr/tumblr-boilerplate.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/helpers/cookies.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/img/scratch-listItem.svg",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/helpers/getViewportDimensions.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_spotlight.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/_list-item.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/js/dist/app.min.js.map",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Unilever/Lynx/31200_Lynx_Africa_18/trunk/src/scss/mixins/_utility.scss",
+		"/Users/zmartineau/Dropbox/Sync/Library/Application Support/Sublime Text 3/Packages/User/Emmet/snippets-kickoff.json",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/inhalt/informationen/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/rezept/tequila-pina-colada/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/404.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/js/_base.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/Gruntfile.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/scss/wide/_home.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/content/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/rezept/pina-colada/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/recipe/pina-colada/index.html",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/js/agegate-settings.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/scss/_components.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/scss/wide/_recipe.scss",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/js/socialbutton.js",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/js/compiled/_app-narrow.js.bundle",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/JS-build.bat",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/js/compiled/_app-wide.js.bundle",
+		"/Users/zmartineau/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/resources/css/thebar-wide.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			"*.scss",
+			"/theme/*.scss",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.lt-ie9",
+			"*.scss",
+			"",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slow",
+			"3em",
+			"button",
+			"10px",
+			"block:Link}",
+			"1",
+			"text:",
+			"ShowLogo",
+			"site",
+			"regular",
+			"Title font",
+			"Title",
+			"masthead",
+			"Scratch",
+			"if",
+			"floa",
+			"div",
+			"nav",
+			"arrow",
+			"						</li>",
+			"<li>",
+			"Chat",
+			"chat",
+			"Chat",
+			"listItem-",
+			"listItem-chat",
+			".listItem-media",
+			"photo",
+			"Photo",
+			"Favicon",
+			"chat",
+			"Quote",
+			"Text",
+			"Chat",
+			"Photo",
+			"normal",
+			"p",
+			".listItem-media",
+			"quote",
+			"link",
+			"Link",
+			"kickoff",
+			"kick",
+			"iframe",
+			"family",
+			"editionNumber",
+			"font:",
+			"Headings",
+			"disqus",
+			"Disqus",
+			"Show",
+			"if:",
+			"TwitterUsername",
+			"text:",
+			"Photo",
+			"block",
+			"show",
+			".listItem-postTitle",
+			"$headings-font-family",
+			"#00723B",
+			"$headings-font-family",
+			"$base-font-family",
+			"    ",
+			"$sans-font-family",
+			".listItem--posted",
+			"<a href=\\\"([a-zA-Z0-9\\{\\}\\/\\:]+)\\\" class=\"([a-zA-Z0-9\\{\\}\\/\\:\\-]+)\\\">([a-zA-Z0-9\\{\\}\\/\\:\\-]+)</a>",
+			"<a href=\"{BlogURL}post/64211087783\" class=\"",
+			"<a href=\\\"([a-zA-Z0-9\\{\\}\\/\\:]+)\\\"",
+			"(# \\[)([a-zA-Z][^\\]]+)\\]",
+			"(# \\[)",
+			"# [[",
+			"(# \\[)([A-Za-z][^\\]]+)",
+			"(# \\[)",
+			"# [",
+			"(# \\[)",
+			"[[",
+			"Reform",
+			"reform",
+			"Reform",
+			"Natalie",
+			"natalie",
+			"Natalie",
+			"		\n",
+			"tiled",
+			"{BR}",
+			"cssanimations",
+			"nav",
+			"header",
+			"section",
+			"debug",
+			"rotate",
+			"upcoming",
+			"Title",
+			"<a ",
+			"<a class=",
+			"TMW.getViewportDimensions()",
+			"dims",
+			"cover",
+			"preHoverInfo",
+			".listItem-preHoverInfo",
+			"</span>",
+			"<span>",
+			" class=\"MsoNormal\"",
+			"</span></p>",
+			"<p><strong>",
+			"</span></strong>",
+			"<span>",
+			" class=\"MsoNormal\"",
+			"p",
+			"</span>",
+			"<span>",
+			"<p class=\"MsoNormal\">",
+			"you",
+			"Topsafe",
+			"topsafe",
+			"Topsafe",
+			"topsafe",
+			"insa",
+			"Topsafe",
+			"topsafe",
+			"Topsafe",
+			"topsafe",
+			"Topsafe",
+			"topsafe",
+			"Topsafe",
+			"topsafe",
+			"_",
+			"throttle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<a href=\"anyval\" class=\"anyval\">anyval</a>",
+			"<a href=\"http:google.com\"",
+			"$1[$2]]",
+			"12",
+			"1 2",
+			"1 $2 2",
+			"$1 1 $2 2",
+			"$1 1 $2",
+			"$1 1 $2 2",
+			"$1 ddd",
+			"&nbsp;*"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 154.0
+	},
+	"project": "Lynx Africa Tumblr Theme.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"thespo",
+				"src/theme/scss/partials/_spotlight.scss"
+			],
+			[
+				"spotl",
+				"src/scss/partials/_spotlight.scss"
+			],
+			[
+				"masth",
+				"src/theme/scss/partials/_masthead.scss"
+			],
+			[
+				"masthe",
+				"src/scss/partials/_masthead.scss"
+			],
+			[
+				"compo",
+				"src/theme/scss/_components.scss"
+			],
+			[
+				"appscs",
+				"src/theme/scss/_app.scss"
+			],
+			[
+				"grunt",
+				"src/theme/Gruntfile.js"
+			],
+			[
+				"themp",
+				"theme/js/popup.js"
+			],
+			[
+				"thespot",
+				"theme/js/spotlight.js"
+			],
+			[
+				"themejs",
+				"theme/js/script.js"
+			],
+			[
+				"vars",
+				"scss/_variables.scss"
+			],
+			[
+				"spotlih",
+				"scss/partials/_spotlights.scss"
+			],
+			[
+				"typo",
+				"theme/scss/_typography.scss"
+			],
+			[
+				"list",
+				"theme/scss/partials/_list-item.scss"
+			],
+			[
+				"scratch",
+				"img/scratch.svg"
+			],
+			[
+				"duffy",
+				"posts/duffy/index.html"
+			],
+			[
+				"spotli",
+				"scss/partials/_spotlights.scss"
+			],
+			[
+				"samta",
+				"posts/sam-taylor/index.html"
+			],
+			[
+				"svg",
+				"img/scratch-white.svg"
+			],
+			[
+				"spotlights",
+				"scss/partials/_spotlights.scss"
+			],
+			[
+				"natali",
+				"posts/natalie-stuyk/index.html"
+			],
+			[
+				"entry",
+				"scss/partials/_entry.scss"
+			],
+			[
+				"colo",
+				"scss/_colour-palette.scss"
+			],
+			[
+				"appscss",
+				"scss/_app.scss"
+			],
+			[
+				"moder",
+				"js/libs/modernizr.min.js"
+			],
+			[
+				"normal",
+				"scss/_normalize.scss"
+			],
+			[
+				"limi",
+				"js/helpers/limit.js"
+			],
+			[
+				"spot",
+				"js/spotlight.js"
+			],
+			[
+				"var",
+				"scss/_variables.scss"
+			],
+			[
+				"thepro",
+				"posts/the-project/index.html"
+			],
+			[
+				"fragranc",
+				"posts/the-fragrance/index.html"
+			],
+			[
+				"apps",
+				"scss/_app.scss"
+			],
+			[
+				"footer",
+				"scss/partials/_footer.scss"
+			],
+			[
+				"typogra",
+				"scss/_typography.scss"
+			],
+			[
+				"spotlight",
+				"js/spotlight.js"
+			],
+			[
+				"listitem",
+				"scss/partials/_list-item.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"vari",
+				"scss/_variables.scss"
+			],
+			[
+				"listite",
+				"scss/partials/_list-item.scss"
+			],
+			[
+				"kicko",
+				"css/kickoff.css"
+			],
+			[
+				"spotlis",
+				"scss/partials/_spotlights.scss"
+			],
+			[
+				"sp",
+				"scss/partials/_spotlight.scss"
+			],
+			[
+				"app",
+				"scss/_app.scss"
+			],
+			[
+				"colour",
+				"scss/_colour-palette.scss"
+			],
+			[
+				"spotlig",
+				"scss/partials/_spotlight.scss"
+			],
+			[
+				"css",
+				"css/kickoff.css"
+			],
+			[
+				"depen",
+				"scss/_dependencies.scss"
+			],
+			[
+				"tumblr",
+				"index-tumblr.html"
+			],
+			[
+				"utli",
+				"scss/_utilities.scss"
+			],
+			[
+				"res",
+				"scss/_responsive-utilities.scss"
+			],
+			[
+				"typogr",
+				"scss/_typography.scss"
+			],
+			[
+				"kickof",
+				"css/kickoff.css"
+			],
+			[
+				"color",
+				"scss/_colour-palette.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"tumbl",
+				"index-tumblr.html"
+			],
+			[
+				"listit",
+				"scss/partials/_list-item.scss"
+			],
+			[
+				"mast",
+				"scss/partials/_masthead.scss"
+			],
+			[
+				"moderni",
+				"js/libs/modernizr.min.js"
+			],
+			[
+				"scr",
+				"js/script.js"
+			],
+			[
+				"foot",
+				"scss/partials/_footer.scss"
+			],
+			[
+				"compon",
+				"scss/_components.scss"
+			],
+			[
+				"button",
+				"scss/_buttons.scss"
+			],
+			[
+				"depend",
+				"scss/_dependencies.scss"
+			],
+			[
+				"mix",
+				"scss/mixins/_css3.scss"
+			],
+			[
+				"listi",
+				"scss/partials/_list-item.scss"
+			],
+			[
+				"script",
+				"js/script.js"
+			],
+			[
+				"cookie",
+				"js/helpers/cookies.js"
+			],
+			[
+				"typography",
+				"scss/_typography.scss"
+			],
+			[
+				"mod",
+				"js/libs/modernizr.min.js"
+			],
+			[
+				"white",
+				"img/scratch-white.svg"
+			],
+			[
+				"whitesvg",
+				"img/scratch-white.svg"
+			],
+			[
+				"dep",
+				"scss/_dependencies.scss"
+			],
+			[
+				"inkjet",
+				"less/products/inkjet.less"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"config",
+				"js/config.js"
+			],
+			[
+				"state",
+				"js/state.js"
+			],
+			[
+				"terms",
+				"application/views/terms.php"
+			],
+			[
+				"priva",
+				"application/controllers/privacy.php"
+			],
+			[
+				"video",
+				"application/views/video.php"
+			],
+			[
+				"form",
+				"application/views/form.php"
+			],
+			[
+				"home",
+				"application/views/home.php"
+			],
+			[
+				"conf",
+				"application/views/confirmation.php"
+			],
+			[
+				"yout",
+				"js/youtube-player.js"
+			],
+			[
+				"confirm",
+				"application/views/confirmation.php"
+			],
+			[
+				"forms",
+				"scss/_forms.scss"
+			],
+			[
+				"typ",
+				"scss/_typography.scss"
+			],
+			[
+				"supports",
+				"scss/functions/_transition-property-name.scss"
+			],
+			[
+				"helper",
+				"js/helpers/helpers.js"
+			],
+			[
+				"videosc",
+				"scss/pages/_video.scss"
+			],
+			[
+				"homecsss",
+				"scss/pages/_home.scss"
+			],
+			[
+				"confir",
+				"application/views/confirmation.php"
+			],
+			[
+				"code",
+				"scss/_code.scss"
+			],
+			[
+				"component",
+				"scss/_components.scss"
+			],
+			[
+				"b",
+				"scss/_buttons.scss"
+			],
+			[
+				"youtube",
+				"js/youtube-player.js"
+			],
+			[
+				"videoscss",
+				"scss/pages/_video.scss"
+			],
+			[
+				"videoscs",
+				"scss/pages/_video.scss"
+			],
+			[
+				"start",
+				"application/views/includes/html-start.php"
+			],
+			[
+				"videossc",
+				"scss/pages/_video.scss"
+			],
+			[
+				"confirma",
+				"application/views/confirmation.php"
+			],
+			[
+				"formscs",
+				"scss/pages/_form.scss"
+			],
+			[
+				"confg",
+				"js/config.js"
+			],
+			[
+				"confri",
+				"application/views/confirmation.php"
+			],
+			[
+				"homescss",
+				"scss/pages/_home.scss"
+			],
+			[
+				"youtu",
+				"js/youtube-player.js"
+			],
+			[
+				"stat",
+				"js/state.js"
+			],
+			[
+				"kickcss",
+				"css/kickoff-old-ie.css"
+			],
+			[
+				"norma",
+				"scss/_normalize.scss"
+			],
+			[
+				"end",
+				"application/views/includes/html-end.php"
+			],
+			[
+				"formscss",
+				"scss/_forms.scss"
+			],
+			[
+				"comp",
+				"scss/_components.scss"
+			],
+			[
+				"h5",
+				"js/libs/plugins/jquery.h5Validate.js"
+			],
+			[
+				"foo",
+				"static/includes/_footer.php"
+			],
+			[
+				"vi",
+				"scss/pages/_video.scss"
+			],
+			[
+				"route",
+				"application/config/routes.php"
+			],
+			[
+				"validatr",
+				"js/libs/plugins/jquery.validatr.js"
+			],
+			[
+				"vaar",
+				"scss/_variables.scss"
+			],
+			[
+				"compone",
+				"scss/_components.scss"
+			],
+			[
+				"varscss",
+				"scss/_variables.scss"
+			],
+			[
+				"varia",
+				"scss/_variables.scss"
+			],
+			[
+				"utili",
+				"scss/_utilities.scss"
+			],
+			[
+				"kickosscs",
+				"scss/kickoff-old-ie.scss"
+			],
+			[
+				"rout",
+				"application/config/routes.php"
+			],
+			[
+				"css3",
+				"scss/mixins/_css3.scss"
+			],
+			[
+				"con",
+				"js/config.js"
+			],
+			[
+				"cinfig",
+				"application/config/config.php"
+			],
+			[
+				"videop",
+				"static/video.php"
+			],
+			[
+				"play",
+				"img/_sprite-assets/play-now.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Brother/BrotherCampaigns/Brother Campaigns.sublime-project"
+			],
+			[
+				"br",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Brother/BrotherCampaigns/Brother Campaigns.sublime-project"
+			],
+			[
+				"inter",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/Germanyinterim.sublime-project"
+			],
+			[
+				"in",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/Germanyinterim.sublime-project"
+			],
+			[
+				"bar",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/Bar UK.sublime-project"
+			],
+			[
+				"inte",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/Germanyinterim.sublime-project"
+			],
+			[
+				"germ",
+				"~/Dropbox/dropbox-htdocs/tmw-mbp/Diageo/29946_the_bar/trunk/src/TheBar.GermanyInterim/Germanyinterim.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

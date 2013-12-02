@@ -1,0 +1,171 @@
+/*
+   Infobar
+   ========================================================================== */
+.infoBar {
+	background-color: #000;
+	height: 50px;
+	line-height: 50px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 100000;
+}
+
+// .infoBar-searchContainer,
+// .infoBar-navBtn {
+// 	float: left;
+// }
+
+.homeBtn,
+.searchBtn,
+.searchClose,
+.searchSubmit,
+.infoBar-navBtn {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	vertical-align: top;
+	line-height: 50px;
+	cursor: pointer;
+
+	@include font-size(30);
+
+	&:hover {
+		color: $red;
+	}
+	&.is-active {
+		color: #000;
+		background-color: #fff;
+	}
+}
+
+.infoBar-search {
+	position: absolute;
+	background-color: #fff;
+	top: 100%;
+	left: 0;
+	right: 0;
+	display: none;
+}
+
+.infoBar-search.is-active {
+	display: block;
+}
+.searchInput {
+	border: none;
+	color: #000;
+	height: 50px;
+	font-size: 30px;
+	padding-left: 0.5em;
+	width: 90%;
+	width: calc(100% - 50px);
+	display: block;
+
+	&:focus {
+		outline: none;
+	}
+}
+.searchClose {
+	position: absolute;
+	top: 0;
+	right: 0;
+	color: #999;
+}
+
+.no-svg {
+	.homeBtn,
+	.searchBtn {
+		color: #000;
+		text-indent: -999px;
+		overflow: hidden;
+	}
+
+	.homeBtn {
+		background: url($spriteSheetURL) -833px 0px no-repeat; // 842 - 833 = 9
+
+		&:hover {
+			background-position: -833px -60px;
+		}
+	}
+
+	.searchBtn {
+		background: url($spriteSheetURL) -677px 0px no-repeat;
+
+		&:hover {
+			background-position: -677px -60px;
+		}
+	}
+}
+
+
+
+/*
+   Nav List
+   ========================================================================== */
+.infoBar-navList {
+	position: absolute;
+	top: 100%;
+	left: 100px;
+	background-color: #fff;
+	display: none;
+
+	&.is-active {
+		display: block;
+	}
+
+	li {
+		line-height: 1;
+	}
+
+	a {
+		display: block;
+		padding: 0.75em 1em;
+		color: #000;
+
+		&:hover {
+			color: $red;
+		}
+	}
+}
+
+
+
+// === <$breakpoint-mid ===
+@include respond-min($breakpoint-mid) {
+	.infoBar {
+		position: fixed;
+	}
+	.searchInput {
+		padding-left: 30px;
+	}
+
+	// .homeBtn,
+	.infoBar-navBtn {
+		display: none;
+	}
+
+	.infoBar-navList {
+		display: block;
+		position: static;
+		background-color: #000;
+		margin-left: 20px;
+
+		li {
+			float: left;
+			display: inline-block;
+			margin-right: 20px;
+			line-height: 50px;
+		}
+
+		a {
+			display: inline-block;
+			padding: 0;
+			color: #fff;
+		}
+	}
+
+
+}
+// === end <$breakpoint-mid ===

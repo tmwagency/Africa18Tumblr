@@ -1,0 +1,87 @@
+.spotlight {
+	position: relative;
+	overflow: hidden;
+}
+.spotlight-lrg {
+	height: 320px;
+}
+.spotlight-sml {
+	height: 320px;
+}
+.spotlight-item {
+	@include position;
+	text-align: center;
+}
+
+.spotlight-img {
+	@include background-size(700px 350px);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.spotlight-img.africa18_tiled_spotlight,
+.spotlight-img.spotlight-img-tiled {
+	background-repeat: repeat;
+	background-size: inherit;
+}
+
+.spotlight-scrollCta {
+	position: absolute;
+	bottom: -20px;
+	left: 50%;
+	margin-left: -50px;
+	width: 100px;
+	height: 100px;
+	line-height: 90px;
+	display: block;
+	@include font-size(80);
+	color: #fff;
+	text-shadow: 0 1px 1px rgba(#000, 0.3);
+	background-color: transparent;
+	@include transition(all 50ms ease-out);
+	@include prefixer(animation, scrollCtaBounce 1s infinite ease-in-out, webkit moz o ms spec);
+}
+
+@include keyframes(scrollCtaBounce) {
+	50% {
+		@include transform(translateY(10px));
+	}
+}
+
+/*
+   Scratch
+   ========================================================================== */
+.spotlight-scratch {
+	@include position(absolute, 0, 0, 0, 0);
+	margin: auto;
+	width: 95%;
+}
+
+
+
+// === <$breakpoint-mid ===
+@include respond-min($breakpoint-mid) {
+	.spotlight-lrg {
+		height: 600px;
+	}
+	.spotlight-sml {
+		height: 400px;
+	}
+	.spotlight-img {
+		@include background-size(cover);
+	}
+
+	.spotlight-latestLink {
+		left: auto;
+		display: inline-block;
+		padding: 15px 25px;
+	}
+
+	.spotlight-latestLink-title {
+		@include font-size($h3-size);
+	}
+
+	.spotlight-scrollCta {
+		bottom: 20px;
+	}
+}
+// === end <$breakpoint-mid ===

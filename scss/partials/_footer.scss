@@ -1,0 +1,108 @@
+.footer {
+	background-color: #000;
+	text-align: center;
+	padding: 20px;
+	line-height: 3;
+	@include font-size(16);
+}
+
+.socialLink {
+	margin-left: 2%;
+	margin-right: 2%;
+
+	&, &:link, &:visited {
+		color: $red;
+		@include font-size(35);
+	}
+
+	&:hover {
+		color: #fff;
+	}
+}
+
+.no-svg {
+	.socialLink {
+		color: transparent;
+		text-indent: -999px;
+		overflow: hidden;
+		background-image: url($spriteSheetURL);
+		background-repeat: no-repeat;
+		width: 35px;
+		display: inline-block;
+	}
+
+	$y-normal: -64px;
+	$y-hover: -4px;
+
+	.socialLink--fb {
+		background-position: -61px $y-normal;
+
+		&:hover {
+			background-position: -61px $y-hover;
+		}
+	}
+
+	.socialLink--tw {
+		background-position: -107px $y-normal;
+
+		&:hover {
+			background-position: -107px $y-hover;
+		}
+	}
+
+	.socialLink--gp {
+		background-position: -159px $y-normal;
+
+		&:hover {
+			background-position: -159px $y-hover;
+		}
+	}
+
+	.socialLink--p {
+		background-position: -4px $y-normal;
+
+		&:hover {
+			background-position: -4px $y-hover;
+		}
+	}
+
+	.socialLink--i {
+		background-position: -318px $y-normal;
+
+		&:hover {
+			background-position: -318px $y-hover;
+		}
+	}
+
+	.socialLink--v {
+		background-position: -632px $y-normal;
+
+		&:hover {
+			background-position: -632px $y-hover;
+		}
+	}
+
+	.socialLink--l {
+		background-position: -263px $y-normal;
+
+		&:hover {
+			background-position: -263px $y-hover;
+		}
+	}
+
+	.socialLink--s {
+		background-position: -368px $y-normal;
+
+		&:hover {
+			background-position: -368px $y-hover;
+		}
+	}
+
+	.socialLink--d {
+		background-position: -212px $y-normal;
+
+		&:hover {
+			background-position: -212px $y-hover;
+		}
+	}
+}

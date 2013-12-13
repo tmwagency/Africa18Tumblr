@@ -35,13 +35,13 @@
 
 	iframe, img {
 		display: block;
-		max-width: 700px;
 	}
+}
 
-	iframe {
-		width: 300px;
-		margin: 0 auto;
-	}
+.photoset iframe {
+	max-width: 700px;
+	width: 300px;
+	margin: 0 auto;
 }
 
 .audioPlayer {
@@ -191,10 +191,9 @@
 			@include font-size(53);
 		}
 	}
-	.entryMedia {
-		img, iframe {
+	.photoset {
+		iframe {
 			width: 100%;
-			max-width: 100%;
 		}
 	}
 

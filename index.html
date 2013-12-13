@@ -333,11 +333,11 @@
 					<article class="entryContainer entryContainer--{PostType}Post" role="main">
 						<div class="entryMedia">
 							{block:Photo}
-								<img src="{PhotoURL-HighRes}" />
+								<div class="photo"><img src="{PhotoURL-HighRes}" /></div>
 							{/block:Photo}
 
 							{block:Photoset}
-								{Photoset}
+								<div class="photoset">{Photoset}</div>
 							{/block:Photoset}
 
 							{block:Audio}
@@ -345,9 +345,7 @@
 							{/block:Audio}
 
 							{block:Video}
-								<div class="fluidVideo">
-									{Video-700}
-								</div>
+								<div class="fluidVideo">{Video-700}</div>
 							{/block:Video}
 
 							{block:Panorama}

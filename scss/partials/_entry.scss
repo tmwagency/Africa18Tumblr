@@ -59,6 +59,10 @@
 		background-color: #fff;
 		color: $red;
 	}
+
+	&:before {
+		display: none;
+	}
 }
 
 .html_photoset {
@@ -191,6 +195,7 @@
 			@include font-size(53);
 		}
 	}
+
 	.photoset {
 		iframe {
 			width: 100%;
@@ -229,6 +234,23 @@
 	.entryNotes {
 		margin-left: ($base-line-height * 2) + px;
 		margin-right: ($base-line-height * 2) + px;
+	}
+
+	.entryLink {
+		padding: 2em 2em 2em 4em;
+		@include font-size(24);
+		position: relative;
+
+		&:before {
+			position: absolute;
+			left: 35px;
+			font-size: 40px;
+			height: 50px;
+			top: 50%;
+			margin-top: -20px;
+			display: block;
+			font-family: 'lynx';
+		}
 	}
 }
 // === end <$breakpoint-mid ===

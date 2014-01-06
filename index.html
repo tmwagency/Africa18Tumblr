@@ -10,10 +10,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<!--[if lte IE 8]>
-			<link rel="stylesheet" href="http://static.tumblr.com/nftjkqk/ZwOmxqpz8/lynxafrica18-old-ie.css">
+			<link rel="stylesheet" href="http://static.tumblr.com/nftjkqk/4FCmyzalr/lynxafrica18-old-ie.css">
 		<![endif]-->
 		<!--[if gt IE 8]><!-->
-			<link rel="stylesheet" href="http://static.tumblr.com/nftjkqk/PAcmxqpzd/lynxafrica18.css">
+			<link rel="stylesheet" href="http://static.tumblr.com/nftjkqk/Dz4myzalw/lynxafrica18.css">
 		<!--<![endif]-->
 
 		<!--[if lte IE 8]>
@@ -222,10 +222,9 @@
 				{block:IndexPage}
 					<article class="listItem listItem--{PostType} {TagsAsClasses}">
 						<a href="{Permalink}" class="listItem-anchor">
-							<div class="listItem-media" style="background-image:url({block:Photo}{PhotoURL-HighRes}{/block:Photo}{block:Panorama}{PhotoURL-Panorama}{/block:Panorama}{block:Photoset}{PhotoURL-HighRes}{/block:Photoset}{block:Video}{block:VideoThumbnail}{VideoThumbnailURL}{/block:VideoThumbnail}{/block:Video}{block:Audio}{block:AlbumArt}{AlbumArtURL}{/block:AlbumArt}{/block:Audio}{block:Chat}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Chat}{block:Text}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Text}{block:Quote}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Quote}{block:Link}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Link}{block:Answer}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Answer})">
+							<div class="listItem-media" style="background-image:url({block:Photo}{PhotoURL-HighRes}{/block:Photo}{block:Panorama}{PhotoURL-Panorama}{/block:Panorama}{block:Photoset}{PhotoURL-HighRes}{/block:Photoset}{block:Video}{block:VideoThumbnail}{VideoThumbnailURL}{/block:VideoThumbnail}{/block:Video}{block:Audio}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{AlbumArtURL}{/block:AlbumArt}{/block:Audio}{block:Chat}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Chat}{block:Text}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Text}{block:Quote}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Quote}{block:Link}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Link}{block:Answer}http://static.tumblr.com/nftjkqk/Pldmwz26u/upcoming-grid.jpg{/block:Answer})">
 								{block:Text}
 									{block:Title}<h2>{Title}</h2>{/block:Title}
-									<div class="listItem-media-textContent">{Body}</div>
 								{/block:Text}
 								{block:Quote}
 									<blockquote>
@@ -236,6 +235,7 @@
 									</blockquote>
 								{/block:Quote}
 								{block:Link}
+									<h2>{Name}</h2>
 									{block:Description}
 										{Description}
 									{/block:Description}
@@ -253,8 +253,6 @@
 										{/block:Lines}
 									</ul>
 								{/block:Chat}
-
-
 								{block:Answer}
 									<div class="question media clearfix">
 										<img src="{AskerPortraitURL-40}" alt="" class="media-img">
@@ -262,7 +260,6 @@
 											<p class="question-asker">{Question}</p>
 										</div>
 									</div>
-
 									{block:Answerer}
 										<div class="answer media clearfix">
 											<img src="{AnswererPortraitURL-40}" alt="" class="media-img">
@@ -271,10 +268,11 @@
 											</div>
 										</div>
 									{/block:Answerer}
-
 									<div class="answerReplies">{Replies}</div>
 								{/block:Answer}
-
+								{block:Audio}
+									<h2>{block:TrackName}{TrackName}{/block:TrackName}{block:Artist} by {Artist}{/block:Artist}</h2>
+								{/block:Audio}
 								<div class="listItem-media-mask"></div>
 							</div>
 							<div class="listItem-overlay">
@@ -348,6 +346,17 @@
 								<div class="fluidVideo">{Video-700}</div>
 							{/block:Video}
 
+							{block:Audio}
+								<div class="audioPlayer">
+									{block:AudioEmbed}
+										{AudioEmbed-640}
+									{/block:AudioEmbed}
+									{block:AudioPlayer}
+										{AudioPlayerBlack}
+									{/block:AudioPlayer}
+								</div>
+							{/block:Audio}
+
 							{block:Panorama}
 								{LinkOpenTag}
 									<img src="{PhotoURL-Panorama}" alt="{PhotoAlt}"/>
@@ -355,7 +364,7 @@
 							{/block:Panorama}
 
 							{block:Link}
-								<a href="{URL}" class="entryLink" {Target}>{URL} &raquo;</a>
+								<a href="{URL}" class="entryLink icon-link" {Target}>{URL} &raquo;</a>
 							{/block:Link}
 
 						</div>
